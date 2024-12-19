@@ -1,5 +1,6 @@
-package guru.springframework.spring5_jokes_app_v2;
+package guru.springframework.spring5jokesappv2;
 
+import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

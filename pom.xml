@@ -48,6 +48,7 @@
 			<groupId>guru.springframework</groupId>
 			<artifactId>chuck-norris-for-actuator</artifactId>
 			<version>3.0.0-M4</version>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
